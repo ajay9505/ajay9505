@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajay9505
+- 👋 Hi, I’m Ajay
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning programing languages
 - 💞️ I’m looking to collaborate on git hub
